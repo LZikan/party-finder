@@ -206,6 +206,11 @@ footer {
 .ccIcon {
   font-size: 20%;
 }
+
+.members {
+  font-size: 60%;
+  padding-top: 0.4rem;
+}
 /* Content Formating */
 /* #imgs {
   min-width: 500;
